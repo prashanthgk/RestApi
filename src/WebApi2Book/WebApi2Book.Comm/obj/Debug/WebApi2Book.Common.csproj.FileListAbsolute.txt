@@ -1,5 +1,0 @@
-C:\Projects\Git\RestApi\src\WebApi2Book\WebApi2Book.Comm\bin\Debug\WebApi2Book.Comm.dll
-C:\Projects\Git\RestApi\src\WebApi2Book\WebApi2Book.Comm\bin\Debug\WebApi2Book.Comm.pdb
-C:\Projects\Git\RestApi\src\WebApi2Book\WebApi2Book.Comm\obj\Debug\WebApi2Book.Common.csprojResolveAssemblyReference.cache
-C:\Projects\Git\RestApi\src\WebApi2Book\WebApi2Book.Comm\obj\Debug\WebApi2Book.Comm.dll
-C:\Projects\Git\RestApi\src\WebApi2Book\WebApi2Book.Comm\obj\Debug\WebApi2Book.Comm.pdb

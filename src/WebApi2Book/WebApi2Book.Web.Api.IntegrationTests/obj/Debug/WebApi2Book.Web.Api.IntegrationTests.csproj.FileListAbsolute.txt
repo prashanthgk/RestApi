@@ -1,4 +1,0 @@
-C:\Projects\Git\RestApi\src\WebApi2Book\WebApi2Book.Web.Api.IntegrationTests\bin\Debug\WebApi2Book.Web.Api.IntegrationTests.dll
-C:\Projects\Git\RestApi\src\WebApi2Book\WebApi2Book.Web.Api.IntegrationTests\bin\Debug\WebApi2Book.Web.Api.IntegrationTests.pdb
-C:\Projects\Git\RestApi\src\WebApi2Book\WebApi2Book.Web.Api.IntegrationTests\obj\Debug\WebApi2Book.Web.Api.IntegrationTests.dll
-C:\Projects\Git\RestApi\src\WebApi2Book\WebApi2Book.Web.Api.IntegrationTests\obj\Debug\WebApi2Book.Web.Api.IntegrationTests.pdb
